@@ -31,6 +31,7 @@ const LoginPage = () => {
       const currentUser = users.find(u => u.email === email);
 
       if (currentUser.role === 'Admin') {
+        navigate('/');
       } else if (currentUser.role === 'Patient') {
         navigate('/my-portal');
       } else {
