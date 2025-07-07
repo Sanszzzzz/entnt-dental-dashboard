@@ -6,7 +6,7 @@ A comprehensive frontend application built for a technical assignment from ENTNT
 
 ### **Live Demo**
 
-**[Your Deployed Link Will Go Here]**
+https://entnt-dental-dashboard-nu.vercel.app/login
 
 ---
 
@@ -43,7 +43,7 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [Your-GitHub-Repo-Link-Will-Go-Here]
+    git clone https://github.com/Sanszzzzz/entnt-dental-dashboard
     ```
 2.  **Navigate to the Project Directory**
     ```bash
